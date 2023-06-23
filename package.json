@@ -1,0 +1,16 @@
+{
+  "name": "tugas3-hasnaseptidewi",
+  "version": "1.0.0",
+  "description": "tugas 3 javscript ",
+  "main": "index.js",
+  "scripts": {
+  "test": "npx mocha"
+  },
+  "author": "hasna",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "prompt-sync": "^4.2.0",
+    "supertest": "^6.3.3"
+  }
+}
